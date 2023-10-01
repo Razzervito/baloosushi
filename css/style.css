@@ -1,3 +1,14 @@
+@media (max-width: 395px) {
+	img {
+		scale: 80%;
+		max-width: 100px;
+		height: auto;
+		width: auto;
+		border-radius: 15px;
+	  }
+}
+
+
 
 body {
 	color: #495057;
@@ -70,7 +81,7 @@ header {
 .category-link {
  	color: rgb(28, 81, 55);
  	text-decoration: none;
-	font-size: 3.5rem;
+	font-size: 1.5rem;
 	font-weight: 700;
 }
 
